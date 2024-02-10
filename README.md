@@ -1,3 +1,14 @@
+# this is my Solution to the Devops & Sécurité Internship - Exercise
+ 
+ 
+#### simple Netflix web application, includes containerizing the application with Docker, deploying it using a orchestration tool. 
+
+
+
+
+
+
+
 <div align="center">
   <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
 
